@@ -1,6 +1,9 @@
+h1,h2 {
+  font-family: 'Satoshi', sans-serif;
+}
 
-h1,h2,a,p {
-  font-family: 'Darker Grotesque', sans-serif;
+a,p {
+  font-family: 'Erode', serif;
 }
 
 a {
